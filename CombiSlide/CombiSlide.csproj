@@ -82,6 +82,11 @@
     <Content Include="assets\img\paddle_prev_fff.png" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\styles.css" />
+    <Content Include="images\img00.jpg" />
+    <Content Include="images\img01.jpg" />
+    <Content Include="images\img02.jpg" />
+    <Content Include="images\img03.jpg" />
+    <Content Include="images\img04.jpg" />
     <Content Include="img\blank.gif" />
     <Content Include="img\paddle_next_999.png" />
     <Content Include="img\paddle_next_fff.png" />
